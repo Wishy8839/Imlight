@@ -101,4 +101,7 @@ Imcodec relies on compile-time source generation to produce C# classes from game
 ## Contributing
 Contributions are welcome from anyone.
 
+## I am using AI
+too lazy to learn how everything works so AI is used for 99%
+
 For [Semver](https://semver.org/) purposes, we ask that all commits abide by [conventions](https://www.conventionalcommits.org/en/v1.0.0/#summary).
